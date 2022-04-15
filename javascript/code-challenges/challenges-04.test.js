@@ -183,7 +183,6 @@ const sortMeetingsByDay = (arr) => {
   // Solution code here...
 };
 
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 13 - Stretch Goal
 
