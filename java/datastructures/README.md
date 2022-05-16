@@ -9,3 +9,8 @@
 Location: `codechallenges/linkedlist/LinkedListChallenges`
 
 Method: `linkedListChallenge06()`
+
+
+### code challenge 1
+
+![array-reverse](/java/imgs/array-reverse.png)
