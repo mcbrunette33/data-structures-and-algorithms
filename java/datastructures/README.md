@@ -14,3 +14,8 @@ Method: `linkedListChallenge06()`
 ### code challenge 1
 
 ![array-reverse](/java/imgs/array-reverse.png)
+
+
+### Code Challenge 2
+
+![array-insert-shift](/java/imgs/array-insert-shift.png)
