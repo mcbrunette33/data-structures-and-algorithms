@@ -19,3 +19,7 @@ Method: `linkedListChallenge06()`
 ### Code Challenge 2
 
 ![array-insert-shift](/java/imgs/array-insert-shift.png)
+
+### Code Challenge 3
+
+![BinarySearch](/java/imgs/BinarySearch.png)
