@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ada5d7a-b523-4bd7-80d2-5316248d14cd" name="Changes" comment="" />
+    <list default="true" id="3ada5d7a-b523-4bd7-80d2-5316248d14cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/test/java/datastructures/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/test/java/datastructures/linkedlist/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/test/java/datastructures/nodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/test/java/datastructures/nodeTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,20 +45,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="29RgEhGoTLb3mRtUlChb9U4D7uz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/datastructures"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/datastructures&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.LinkedListTest">
+}</component>
+  <component name="RunManager" selected="Gradle.LinkedListTest.KthFromEndReturn (1)">
     <configuration name="LibraryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -88,6 +108,52 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="LinkedListTest.KthFromEndReturn (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+            <option value="--tests" />
+            <option value="&quot;datastructures.linkedlist.LinkedListTest.KthFromEndReturn&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LinkedListTest.LinkedListValue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+            <option value="--tests" />
+            <option value="&quot;datastructures.linkedlist.LinkedListTest.LinkedListValue&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="nodeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -113,6 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LinkedListTest.KthFromEndReturn (1)" />
+        <item itemvalue="Gradle.LinkedListTest.LinkedListValue" />
         <item itemvalue="Gradle.LinkedListTest" />
         <item itemvalue="Gradle.nodeTest" />
         <item itemvalue="Gradle.LibraryTest" />
