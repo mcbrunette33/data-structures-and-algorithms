@@ -24,8 +24,21 @@ public class LinkedList {
     }
     return false;
   }
+  public void append(int value) {
+    Node newNode = new Node(value);
+    if (head != null) {
+      Node current = head;
+      while (current.next != null) {
+        current = current.next;
+      }
+      current.next = newNode;
+    } else {
+      head = newNode;
+    }
+  }
 
-// k code challenge 07 === // ll.kthFromEnd(k)
+
+  // k code challenge 07 === // ll.kthFromEnd(k)
   public int kthFromEnd(int k){
     int n = 0;
     Node current = head;
