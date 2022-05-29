@@ -7,16 +7,26 @@ public class Queue {
   Node rear;
 
   public void enqueue( int value){
-    Node node = new Node(value);
-    if(front == null){
-      front = node;
+    Node temp = new Node(value);
+    if(rear == null){
+      rear = temp;
     }
     else{
-      rear.next = node;
+      front.next = temp;
     }
-    rear = node;
+    front = temp;
   }
+  //head = rear tail = front for dequeue
   public void dequeue(){
 
+  }
+  public boolean isEmpty(){
+    return rear == null;
+  }
+
+  public int peek() {
+    if(rear == null)
+      return 0;
+    return front.value;
   }
 }
