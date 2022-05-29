@@ -59,7 +59,30 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/datastructures&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.QueueTest.testQueueEnqueue">
+  <component name="RunManager" selected="Gradle.QueueTest.testQueueDequeue">
+    <configuration name="QueueTest.testQueueDequeue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+            <option value="--tests" />
+            <option value="&quot;datastructures.QueueTest.QueueTest.testQueueDequeue&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="QueueTest.testQueueEnqueue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -74,29 +97,6 @@
             <option value=":lib:test" />
             <option value="--tests" />
             <option value="&quot;datastructures.QueueTest.QueueTest.testQueueEnqueue&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="StackTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":lib:test" />
-            <option value="--tests" />
-            <option value="&quot;datastructures.StackTest.StackTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.QueueTest.testQueueDequeue" />
         <item itemvalue="Gradle.QueueTest.testQueueEnqueue" />
         <item itemvalue="Gradle.StackTest.PeekValueCheck" />
         <item itemvalue="Gradle.StackTest.testStackPop" />
         <item itemvalue="Gradle.StackTest.testStackPush" />
-        <item itemvalue="Gradle.StackTest" />
       </list>
     </recent_temporary>
   </component>

@@ -12,9 +12,15 @@ public class QueueTest {
     queue.enqueue(2);
     queue.enqueue(3);
     System.out.println(queue);
-    assertEquals(queue.peek(), 3);
+    assertEquals(1,queue.peek());
   }
   @Test
   public void testQueueDequeue() {
+    Queue queue = new Queue();
+    queue.enqueue(1);
+    queue.enqueue(2);
+    queue.enqueue(3);
+    assertEquals(1,queue.dequeue());
   }
+
 }

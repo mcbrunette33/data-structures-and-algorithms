@@ -10,7 +10,7 @@ public class Stack {
     top = newNode;
   }
   public int pop(){
-    if (top == null){
+    if (isEmpty()){
       throw new IllegalArgumentException("empty stack");
     }
     Node temp = new Node();
