@@ -7,8 +7,6 @@
     <list default="true" id="3ada5d7a-b523-4bd7-80d2-5316248d14cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/datastructures/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/datastructures/queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/test/java/datastructures/QueueTest/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/test/java/datastructures/QueueTest/QueueTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/LinkedList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/main/java/datastructures/linkedlist/Node.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/main/java/datastructures/queue/Queue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/main/java/datastructures/stack/Stack.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/test/java/datastructures/LibraryTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/test/java/datastructures/QueueTest/QueueTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/test/java/datastructures/StackTest/StackTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/test/java/datastructures/linkedlist/LinkedListTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/src/test/java/datastructures/nodeTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,14 +61,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/datastructures&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.QueueTest.testQueueDequeue">
+}]]></component>
+  <component name="RunManager" selected="Gradle.psuedoQueueTest.dequeueTesting">
     <configuration name="QueueTest.testQueueDequeue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -129,7 +138,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StackTest.testStackPop" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="psuedoQueueTest.dequeueTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -142,7 +151,7 @@
           <list>
             <option value=":lib:test" />
             <option value="--tests" />
-            <option value="&quot;datastructures.StackTest.StackTest.testStackPop&quot;" />
+            <option value="&quot;datastructures.QueueTest.psuedoQueueTest.dequeueTesting&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -152,7 +161,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StackTest.testStackPush" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="psuedoQueueTest.enqueueTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -165,7 +174,7 @@
           <list>
             <option value=":lib:test" />
             <option value="--tests" />
-            <option value="&quot;datastructures.StackTest.StackTest.testStackPush&quot;" />
+            <option value="&quot;datastructures.QueueTest.psuedoQueueTest.enqueueTesting&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -177,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.QueueTest.testQueueDequeue" />
+        <item itemvalue="Gradle.psuedoQueueTest.dequeueTesting" />
+        <item itemvalue="Gradle.psuedoQueueTest.enqueueTesting" />
         <item itemvalue="Gradle.QueueTest.testQueueEnqueue" />
+        <item itemvalue="Gradle.QueueTest.testQueueDequeue" />
         <item itemvalue="Gradle.StackTest.PeekValueCheck" />
-        <item itemvalue="Gradle.StackTest.testStackPop" />
-        <item itemvalue="Gradle.StackTest.testStackPush" />
       </list>
     </recent_temporary>
   </component>
