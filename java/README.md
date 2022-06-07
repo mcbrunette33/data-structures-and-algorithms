@@ -13,3 +13,5 @@
 ![stack-queue-pseudo](/imgs/stack-queue-pseudo.png)
 
 ![tree-max](/imgs/tree-max-16.png)
+
+![tree-breadth-first](/imgs/tree-breadth-first.png)
