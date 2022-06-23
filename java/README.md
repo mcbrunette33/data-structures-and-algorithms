@@ -15,3 +15,6 @@
 ![tree-max](/imgs/tree-max-16.png)
 
 ![tree-breadth-first](/imgs/tree-breadth-first.png)
+
+![hashmap-repeated-word](/imgs/hashmap-repeated-word.jpg)
+- collaborated with Roger & Abdulahi
