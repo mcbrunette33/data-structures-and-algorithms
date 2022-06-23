@@ -23,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mcbru/Java/projects/CodeFellowship-brunette"
+    "last_opened_file_path": "C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/imgs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -41,5 +41,16 @@
       <updated>1653438427121</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
