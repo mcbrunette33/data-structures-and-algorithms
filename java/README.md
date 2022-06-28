@@ -18,3 +18,5 @@
 
 - ![hashmap-repeated-word](/imgs/hashmap-repeated-word.jpg)
 - collaborated with Roger & Abdulahi
+- ![codechallenge-sorting](/imgs/codechallenge-sorting.jpg)
+- collaborated with Roger & Abdulahi
