@@ -20,3 +20,4 @@
 - collaborated with Roger & Abdulahi
 - ![codechallenge-sorting](/imgs/codechallenge-sorting.jpg)
 - collaborated with Roger & Abdulahi
+- ![code-challenge-27](/imgs/code-challenge-27.jpg)

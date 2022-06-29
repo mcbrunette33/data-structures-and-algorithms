@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc97586d-0281-48cc-8d3c-31fea2557ded" name="Changes" comment="" />
+    <list default="true" id="fc97586d-0281-48cc-8d3c-31fea2557ded" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datastructures/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/datastructures"
+    "last_opened_file_path": "C:/Users/mcbru/Java/projects/data-structures-and-algorithms/java/imgs"
   }
 }]]></component>
   <component name="RecentsManager">
