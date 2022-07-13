@@ -1,4 +1,5 @@
 ## Code challenge Java README
+### Java 401
 
 - ![array-insert-shift](/imgs/array-insert-shift.png)
 
@@ -16,8 +17,12 @@
 
 - ![tree-breadth-first](/imgs/tree-breadth-first.png)
 
+- tree- breath first
+
 - ![hashmap-repeated-word](/imgs/hashmap-repeated-word.jpg)
 - collaborated with Roger & Abdulahi
+
 - ![codechallenge-sorting](/imgs/codechallenge-sorting.jpg)
 - collaborated with Roger & Abdulahi
+
 - ![code-challenge-27](/imgs/code-challenge-27.jpg)
