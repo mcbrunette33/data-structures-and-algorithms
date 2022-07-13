@@ -26,3 +26,5 @@
 - collaborated with Roger & Abdulahi
 
 - ![code-challenge-27](/imgs/code-challenge-27.jpg)
+
+- ![code-challenge-39](/imgs/code-challenge-39.jpg)
