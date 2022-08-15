@@ -17,13 +17,13 @@
 
 - ![tree-breadth-first](/imgs/tree-breadth-first.png)
 
-- tree- breath first
+- tree-breath first
 
 - ![hashmap-repeated-word](/imgs/hashmap-repeated-word.jpg)
-- collaborated with Roger & Abdulahi
+- collaborated with Roger & Abdulahi on sorting CC
 
 - ![codechallenge-sorting](/imgs/codechallenge-sorting.jpg)
-- collaborated with Roger & Abdulahi
+- collaborated with Roger & Abdulahi on sorting CC
 
 - ![code-challenge-27](/imgs/code-challenge-27.jpg)
 

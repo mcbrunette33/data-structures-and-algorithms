@@ -37,7 +37,6 @@ public class LinkedList {
     }
   }
 
-
   // k code challenge 07 === // ll.kthFromEnd(k)
   public int kthFromEnd(int k){
     int n = 0;
@@ -75,5 +74,4 @@ public class LinkedList {
     String aFinish = write + "Null";
     return aFinish;
   }
-
 }
